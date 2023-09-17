@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+BQ+p+q56vDC5N8NMUdSaVXpt9oxmEKMGJdJ7fWVy+H934cK0GvJn3QZhcaw/tgAnZbLgZla0NZTzj73Zq+GcQ==",
+  "success": true,
+  "projectFilePath": "/Users/marcoalbasini/Documents/Documenti/Blog/Blog/Post/LINGUAGGIO C#/Codice/Modificatori_Ref_Out_In/Modificatori_Ref_Out_In.csproj",
+  "expectedPackageFiles": [
+    "/Users/marcoalbasini/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/marcoalbasini/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/marcoalbasini/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

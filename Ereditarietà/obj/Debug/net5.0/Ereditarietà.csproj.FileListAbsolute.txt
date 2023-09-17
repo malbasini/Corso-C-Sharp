@@ -1,0 +1,43 @@
+C:/Blog/Post/LINGUAGGIO C#/C# 9/Ereditarietà/bin/Debug/net5.0/Ereditarietà.exe
+C:/Blog/Post/LINGUAGGIO C#/C# 9/Ereditarietà/bin/Debug/net5.0/Ereditarietà.deps.json
+C:/Blog/Post/LINGUAGGIO C#/C# 9/Ereditarietà/bin/Debug/net5.0/Ereditarietà.runtimeconfig.json
+C:/Blog/Post/LINGUAGGIO C#/C# 9/Ereditarietà/bin/Debug/net5.0/Ereditarietà.runtimeconfig.dev.json
+C:/Blog/Post/LINGUAGGIO C#/C# 9/Ereditarietà/bin/Debug/net5.0/Ereditarietà.dll
+C:/Blog/Post/LINGUAGGIO C#/C# 9/Ereditarietà/bin/Debug/net5.0/ref/Ereditarietà.dll
+C:/Blog/Post/LINGUAGGIO C#/C# 9/Ereditarietà/bin/Debug/net5.0/Ereditarietà.pdb
+C:/Blog/Post/LINGUAGGIO C#/C# 9/Ereditarietà/obj/Debug/net5.0/Ereditarietà.csprojAssemblyReference.cache
+C:/Blog/Post/LINGUAGGIO C#/C# 9/Ereditarietà/obj/Debug/net5.0/Ereditarietà.GeneratedMSBuildEditorConfig.editorconfig
+C:/Blog/Post/LINGUAGGIO C#/C# 9/Ereditarietà/obj/Debug/net5.0/Ereditarietà.AssemblyInfoInputs.cache
+C:/Blog/Post/LINGUAGGIO C#/C# 9/Ereditarietà/obj/Debug/net5.0/Ereditarietà.AssemblyInfo.cs
+C:/Blog/Post/LINGUAGGIO C#/C# 9/Ereditarietà/obj/Debug/net5.0/Ereditarietà.csproj.CoreCompileInputs.cache
+C:/Blog/Post/LINGUAGGIO C#/C# 9/Ereditarietà/obj/Debug/net5.0/Ereditarietà.dll
+C:/Blog/Post/LINGUAGGIO C#/C# 9/Ereditarietà/obj/Debug/net5.0/ref/Ereditarietà.dll
+C:/Blog/Post/LINGUAGGIO C#/C# 9/Ereditarietà/obj/Debug/net5.0/Ereditarietà.pdb
+C:/Blog/Post/LINGUAGGIO C#/C# 9/Ereditarietà/obj/Debug/net5.0/Ereditarietà.genruntimeconfig.cache
+C:/Corso C#/Ereditarietà/bin/Debug/net5.0/Ereditarietà.exe
+C:/Corso C#/Ereditarietà/bin/Debug/net5.0/Ereditarietà.deps.json
+C:/Corso C#/Ereditarietà/bin/Debug/net5.0/Ereditarietà.runtimeconfig.json
+C:/Corso C#/Ereditarietà/bin/Debug/net5.0/Ereditarietà.runtimeconfig.dev.json
+C:/Corso C#/Ereditarietà/bin/Debug/net5.0/Ereditarietà.dll
+C:/Corso C#/Ereditarietà/bin/Debug/net5.0/ref/Ereditarietà.dll
+C:/Corso C#/Ereditarietà/bin/Debug/net5.0/Ereditarietà.pdb
+C:/Corso C#/Ereditarietà/obj/Debug/net5.0/Ereditarietà.csproj.AssemblyReference.cache
+C:/Corso C#/Ereditarietà/obj/Debug/net5.0/Ereditarietà.GeneratedMSBuildEditorConfig.editorconfig
+C:/Corso C#/Ereditarietà/obj/Debug/net5.0/Ereditarietà.AssemblyInfoInputs.cache
+C:/Corso C#/Ereditarietà/obj/Debug/net5.0/Ereditarietà.AssemblyInfo.cs
+C:/Corso C#/Ereditarietà/obj/Debug/net5.0/Ereditarietà.csproj.CoreCompileInputs.cache
+C:/Corso C#/Ereditarietà/obj/Debug/net5.0/Ereditarietà.dll
+C:/Corso C#/Ereditarietà/obj/Debug/net5.0/ref/Ereditarietà.dll
+C:/Corso C#/Ereditarietà/obj/Debug/net5.0/Ereditarietà.pdb
+C:/Corso C#/Ereditarietà/obj/Debug/net5.0/Ereditarietà.genruntimeconfig.cache
+/Users/marcoalbasini/Documents/Documenti/Blog/Blog/Post/LINGUAGGIO C#/Codice/Ereditarietà/bin/Debug/net5.0/Ereditarietà
+/Users/marcoalbasini/Documents/Documenti/Blog/Blog/Post/LINGUAGGIO C#/Codice/Ereditarietà/bin/Debug/net5.0/Ereditarietà.dll
+/Users/marcoalbasini/Documents/Documenti/Blog/Blog/Post/LINGUAGGIO C#/Codice/Ereditarietà/bin/Debug/net5.0/Ereditarietà.pdb
+/Users/marcoalbasini/Documents/Documenti/Blog/Blog/Post/LINGUAGGIO C#/Codice/Ereditarietà/obj/Debug/net5.0/Ereditarietà.csproj.AssemblyReference.cache
+/Users/marcoalbasini/Documents/Documenti/Blog/Blog/Post/LINGUAGGIO C#/Codice/Ereditarietà/obj/Debug/net5.0/Ereditarietà.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcoalbasini/Documents/Documenti/Blog/Blog/Post/LINGUAGGIO C#/Codice/Ereditarietà/obj/Debug/net5.0/Ereditarietà.AssemblyInfoInputs.cache
+/Users/marcoalbasini/Documents/Documenti/Blog/Blog/Post/LINGUAGGIO C#/Codice/Ereditarietà/obj/Debug/net5.0/Ereditarietà.AssemblyInfo.cs
+/Users/marcoalbasini/Documents/Documenti/Blog/Blog/Post/LINGUAGGIO C#/Codice/Ereditarietà/obj/Debug/net5.0/Ereditarietà.csproj.CoreCompileInputs.cache
+/Users/marcoalbasini/Documents/Documenti/Blog/Blog/Post/LINGUAGGIO C#/Codice/Ereditarietà/obj/Debug/net5.0/Ereditarietà.dll
+/Users/marcoalbasini/Documents/Documenti/Blog/Blog/Post/LINGUAGGIO C#/Codice/Ereditarietà/obj/Debug/net5.0/refint/Ereditarietà.dll
+/Users/marcoalbasini/Documents/Documenti/Blog/Blog/Post/LINGUAGGIO C#/Codice/Ereditarietà/obj/Debug/net5.0/Ereditarietà.pdb

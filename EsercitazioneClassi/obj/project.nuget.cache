@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dkSDK64z3CWpgSxCexrxX6jkev9YF2SwsHHzgcOyAU/dm2lRR0Eao6iIclmAP1MvpQC5yjDeeabpxPz1wf+Vyg==",
+  "success": true,
+  "projectFilePath": "/Users/marcoalbasini/Documents/Documenti/Blog/Blog/Post/LINGUAGGIO C#/Codice/EsercitazioneClassi/EsercitazioneClassi.csproj",
+  "expectedPackageFiles": [
+    "/Users/marcoalbasini/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/marcoalbasini/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/marcoalbasini/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

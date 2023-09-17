@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KWA0ng+GRE0quKL1dIDBs2c4oeKePkQszkpJ+lez1fTm1eJAg8BNvkSP2XGA4p5v1ALFoiWb4Lt4R4UMK1uoGw==",
+  "success": true,
+  "projectFilePath": "/Users/marcoalbasini/Documents/Documenti/Blog/Blog/Post/LINGUAGGIO C#/Codice/Variabili/Variabili.csproj",
+  "expectedPackageFiles": [
+    "/Users/marcoalbasini/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/marcoalbasini/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/marcoalbasini/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

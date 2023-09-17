@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rg+D4FbRS9OB/1Ku60yVReq1YIcUU3nPWfm2nvUSN2LYaLXgaodh75CDtJe4qteY1y8D5fBxEf2ZBp31MHY7hQ==",
+  "success": true,
+  "projectFilePath": "/Users/marcoalbasini/Documents/Documenti/Blog/Blog/Post/LINGUAGGIO C#/Codice/EsercitazioneProperty/Property.csproj",
+  "expectedPackageFiles": [
+    "/Users/marcoalbasini/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/marcoalbasini/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/marcoalbasini/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
